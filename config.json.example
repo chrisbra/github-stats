@@ -1,5 +1,8 @@
 {
-  "github_token": "classical PAT token
-  "owner": "vim",
-  "repo": "vim"
+  "github_token": "ghp_your_personal_access_token",
+  "repositories": [
+    {"owner": "vim", "repo": "vim"},
+    {"owner": "vim", "repo": "vim-win32-installer"},
+    {"owner": "vim", "repo": "vim-appimage"},
+  ]
 }
